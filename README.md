@@ -5,4 +5,5 @@ banned in the US unless it goes through with an IPO or gets bought out by mega-c
 Wedbush says.” This title refers to an article posted by Business Insider, with the title
 specifically belonging to a quote by a Wedbush Securities analyst.The post itself was posted on March 27th, and since then has garnered over 49,000 upvotes, 5,800
 comments and has gained significant traction. <br /> <br />
-The mean polarity of the comments was negative, with a polarity average of -0.026. 
+The mean polarity of the comments was negative, with a polarity average of -0.026. <br />
+Summary findings: 
