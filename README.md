@@ -6,4 +6,4 @@ Wedbush says.” This title refers to an article posted by Business Insider, wit
 specifically belonging to a quote by a Wedbush Securities analyst.The post itself was posted on March 27th, and since then has garnered over 49,000 upvotes, 5,800
 comments and has gained significant traction. <br /> <br />
 The mean polarity of the comments was negative, with a polarity average of -0.026. <br />
-Summary findings: 
+Summary findings in Writeup.pdf
